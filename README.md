@@ -1,0 +1,2 @@
+# Golang Workspace Template
+
